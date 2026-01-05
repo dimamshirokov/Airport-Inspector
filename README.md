@@ -18,7 +18,7 @@ The user's workload is provided for the year in the form of a chart that shows t
 ```console
 git clone https://github.com/dimamshirokov/Airport-Inspector.git
 ```
-```
+```console
 cd Airport-Inspector
 ```
 
