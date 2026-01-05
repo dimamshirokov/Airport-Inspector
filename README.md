@@ -11,28 +11,30 @@ The user's workload is provided for the year in the form of a chart that shows t
 
 ## 📥 Download latest release 
 
-[![Source Code](https://img.shields.io/badge/Source_Code-ZIP-green?style=for-the-badge)](https://github.com/1123581321345589144233377610/Airport-Inspector/releases)
+[![Source Code](https://img.shields.io/badge/Source_Code-ZIP-green?style=for-the-badge)](https://github.com/dimamshirokov/Airport-Inspector/releases)
 
 ## 📦 Installation from source
 
-```bash
-git clone https://github.com/1123581321345589144233377610/Airport-Inspector.git
+```console
+git clone https://github.com/dimamshirokov/Airport-Inspector.git
+```
+```
 cd Airport-Inspector
 ```
 
 ## 🎥 Demo
 
-![](screenshots/image1.png)
+![](https://drive.google.com/uc?id=1Ce9zx45hSSfWwMngi2UFj52n3U08aFos)
 
-![](screenshots/image2.png)
+![](https://drive.google.com/uc?id=1jQxVJpXoVUFlOnosSKa81wRCTu0iodq-)
 
-![](screenshots/image3.png)
+![](https://drive.google.com/uc?id=15PRVg6t3J_TR8USyhtmrdNuTByRiUGZq)
 
-![](screenshots/image4.png)
+![](https://drive.google.com/uc?id=1wMMY9PpR4HdJpb9OZErTTlax2VNCDymy)
 
-![](screenshots/image5.png)
+![](https://drive.google.com/uc?id=1UBD1NdxPBjCu232TljB2k1Raqmm3Okyk)
 
 ## 👤 Author
 
 **Dima M. Shirokov**
-- [GitHub](https://github.com/1123581321345589144233377610)
+- [GitHub](https://github.com/dimamshirokov)
